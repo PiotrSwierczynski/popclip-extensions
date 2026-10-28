@@ -1,0 +1,4 @@
+include:
+  - Allegro.popclipext
+  - OLX.popclipext
+  - Ceneo.popclipext

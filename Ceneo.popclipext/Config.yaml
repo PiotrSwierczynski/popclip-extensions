@@ -1,0 +1,15 @@
+# PopClip extension: search the selected text on Ceneo.pl
+# Docs: https://www.popclip.app/dev/url-actions
+name: Ceneo
+identifier: com.github.piotrswierczynski.popclip.ceneo
+description: Compare prices for the selected text on Ceneo.pl.
+keywords: ceneo price comparison shopping search poland
+icon: ceneo.svg
+popclipVersion: 6221
+title: Search Ceneo
+url: https://www.ceneo.pl/;szukaj-***
+cleanQuery: true
+spacesAsPlus: true
+app:
+  name: Ceneo
+  link: https://www.ceneo.pl/

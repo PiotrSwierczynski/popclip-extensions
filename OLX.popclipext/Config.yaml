@@ -1,0 +1,14 @@
+# PopClip extension: search the selected text on OLX.pl
+# Docs: https://www.popclip.app/dev/url-actions
+name: OLX
+identifier: com.github.piotrswierczynski.popclip.olx
+description: Search for the selected text on OLX.pl.
+keywords: olx classifieds shopping search poland
+icon: olx.svg
+popclipVersion: 6221
+title: Search OLX
+url: https://www.olx.pl/oferty/q-***/
+cleanQuery: true
+app:
+  name: OLX
+  link: https://www.olx.pl/

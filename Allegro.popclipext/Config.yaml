@@ -1,0 +1,14 @@
+# PopClip extension: search the selected text on Allegro.pl
+# Docs: https://www.popclip.app/dev/url-actions
+name: Allegro
+identifier: com.github.piotrswierczynski.popclip.allegro
+description: Search for the selected text on Allegro.pl.
+keywords: allegro shopping search poland
+icon: allegro-a.png
+popclipVersion: 6221
+title: Search Allegro
+url: https://allegro.pl/listing?string=***
+cleanQuery: true
+app:
+  name: Allegro
+  link: https://allegro.pl/
